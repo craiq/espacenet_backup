@@ -9,7 +9,7 @@ For example this contains
 
 ## Why
 
-Espacenet stores your progress in your browser. So if you want to change your browser or reset all browser data from time to time, this tool will help you.
+Espacenet stores your progress in your browser. So if you want to change your browser or reset all browser data from time to time, this tool gives you the opportunity to make a backup.
 
 ## How to setup
 
